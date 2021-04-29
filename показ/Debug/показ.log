@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  показ.cpp
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(22,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(32,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(36,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(45,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(48,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(119,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(165,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(202,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(214,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(222,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(250,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(275,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(304,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(335,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(337,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(362,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(492,49): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(500,37): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(516,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(519,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(153): warning C4715: sos: значение возвращается не при всех путях выполнения
+D:\Лиза\учеба\мой 1 курс\программы\показ\показ\показ.cpp(175): warning C4715: vvod: значение возвращается не при всех путях выполнения
+  показ.vcxproj -> D:\Лиза\учеба\мой 1 курс\программы\показ\Debug\показ.exe
